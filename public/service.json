@@ -1,0 +1,44 @@
+[ {
+    "id":1,
+    "title":"Web Development",
+    "image":"https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg?auto=compress&cs=tinysrg&w=1260&h=750&dpr=1",
+    "description":"Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network)."
+},
+
+
+{
+    "id":2,
+    "title":"App Development",
+    "image":"https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg?auto=compress&cs=tinysrg&w=1260&h=750&dpr=1",
+    "description":"App development is the process of creating applications for various operating systems using programming languages. "
+},
+
+
+{
+    "id":3,
+    "title":"Software Development",
+    "image":"https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg?auto=compress&cs=tinysrg&w=1260&h=750&dpr=1",
+    "description":"Software development is the process of creating, testing, and maintaining software programs and systems"
+},
+
+
+{
+    "id":4,
+    "title":"Digital Marketing",
+    "image":"https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg?auto=compress&cs=tinysrg&w=1260&h=750&dpr=1",
+    "description":"Digital marketing is a broad range of online marketing techniques that use electronic devices and the internet to promote a brand and connect with potential customers."
+},
+
+{
+    "id":5,
+    "title":"Graphic Designer",
+    "image":"https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg?auto=compress&cs=tinysrg&w=1260&h=750&dpr=1",
+    "description":"Graphic designers spend most of their time on the computer using various software programs to create designs, organise tasks or communicate with clients and employees. "
+},
+
+{
+    "id":6,
+    "title":"Jyoti Codefest",
+    "image":"https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg?auto=compress&cs=tinysrg&w=1260&h=750&dpr=1",
+    "description":"These are the services which is provided."
+}]
